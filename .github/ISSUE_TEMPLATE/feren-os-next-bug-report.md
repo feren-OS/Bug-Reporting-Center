@@ -1,7 +1,7 @@
 ---
 name: Feren OS Next Bug Report
 about: Create a report to help improve Feren OS with Plasma
-title: "[Next Bug] "
+title: ''
 labels: Feren OS Next
 assignees: ''
 

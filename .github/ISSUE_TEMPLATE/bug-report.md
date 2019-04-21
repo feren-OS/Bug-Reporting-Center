@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a bug report to help improve Feren OS
-title: "[Bug] "
+title: ''
 labels: ''
 assignees: ''
 

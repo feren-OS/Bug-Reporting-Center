@@ -2,7 +2,7 @@
 name: Feren OS Classic Bug Report
 about: Create a report to help improve Feren OS with Cinnamon
 title: ''
-labels: Feren OS Next
+labels: Feren OS Classic
 assignees: ''
 
 ---

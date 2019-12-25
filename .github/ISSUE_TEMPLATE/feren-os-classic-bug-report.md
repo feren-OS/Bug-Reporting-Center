@@ -1,6 +1,6 @@
 ---
-name: Feren OS Next Bug Report
-about: Create a report to help improve Feren OS with Plasma
+name: Feren OS Classic Bug Report
+about: Create a report to help improve Feren OS with Cinnamon
 title: ''
 labels: Feren OS Next
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Package Name or Section of Feren OS where this bug resides**
-Where does this bug happen? (e.g.: feren-themer-plasma) ___
+Where does this bug happen? (e.g.: feren-themer-cinnamon) ___
 
 **Describe the bug**
 A clear and concise description of what the bug is.
